@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="w-full h-[80px] bg-white border-b">
+    <div className="w-full h-[80px] bg-white border-b px-10">
       <div className="md:max-w-[1480px] max-w-[600px] m-auto h-full w-full flex justify-between items-center">
         <img src={logo} alt="Logo" className="h-[25px]" />
         <div className="hidden md:flex items-center">
