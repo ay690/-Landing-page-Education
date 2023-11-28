@@ -1,4 +1,5 @@
 import Navbar from "./Navbar";
+import Hero from "./Hero";
+import Companies from "./Companies";
 
-
-export {Navbar}
+export {Navbar, Hero, Companies}

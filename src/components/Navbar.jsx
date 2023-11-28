@@ -43,7 +43,7 @@ const Navbar = () => {
 
       <div
         className={
-          toggle ? "absolute-z-10 p-4 bg-white w-full px-8 md:hidden" : "hidden"
+          toggle ? "absolute z-10 p-4 bg-white w-full px-8 md:hidden border-b" : "hidden"
         }
       >
         <ul>
